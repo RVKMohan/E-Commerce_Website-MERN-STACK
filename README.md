@@ -52,8 +52,6 @@ Add your config variables values in the config.env file in backend/config folder
 
 - Create Account On https://cloudinary.com
 
-- ![Alt text](<cloudinary API.png>)
-
 - CLOUDINARY_CLOUD_NAME =
 - CLOUDINARY_API_KEY =
 - CLOUDINARY_API_SECRET =
@@ -62,16 +60,12 @@ Add your config variables values in the config.env file in backend/config folder
 
 - Create Account On https://stripe.com/en-in
 
-- ![Alt text](<Stripe API.png>)
-
 - STRIPE_SECRET_KEY =
 - STRIPE_API_KEY =
 
 ### For Mailtrap Config
 
 - Create Account On https://mailtrap.io/
-
-- ![Alt text](<mailtrap API.png>)
 
 - SMTP_HOST =
 - SMTP_PORT =
@@ -103,6 +97,15 @@ Run it in the root folder.
 npm run seeder
 ```
 
-server : npm run dev
-client : npm start
+### RUN Server 
+
+---
+npm run dev
+---
+
+### RUN CLIENT
+
+---
+npm start
+---
 
