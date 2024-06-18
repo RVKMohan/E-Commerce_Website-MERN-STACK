@@ -97,13 +97,13 @@ Run it in the root folder.
 npm run seeder
 ```
 
-### RUN Server 
+### RUN Server Backend
 
 ```
 npm run dev
 ```
 
-### RUN CLIENT
+### RUN CLIENT Frontend
 
 ```
 npm start
