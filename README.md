@@ -99,13 +99,12 @@ npm run seeder
 
 ### RUN Server 
 
----
+```
 npm run dev
----
+```
 
 ### RUN CLIENT
 
----
+```
 npm start
----
-
+```
