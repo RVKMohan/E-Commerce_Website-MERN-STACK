@@ -133,11 +133,11 @@ npm start
 ![Screenshot 2024-06-19 160203](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/57ed1723-df01-4a62-921d-2984cde5b90d)
 
 #  #SHIPPING
-![Screenshot 2024-06-19 160239](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/b35a68ff-6bd7-4dfa-8503-a4f5dbbfca70)
+![Screenshot 2024-06-19 162226](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/357dc431-b041-438f-a93a-4e086d9a5b49)
 
 #  #CONFIRM ORDER
-![Screenshot 2024-06-19 160301](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/1410968c-7512-4140-a83d-06953c1560a8)
+![Screenshot 2024-06-19 162249](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/ecfd0e1d-10b9-4ff2-a9d7-1ae833be9e9c)
 
 #  #PROCCED TO PAYMENT 
-![Screenshot 2024-06-19 160326](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/5afc7f35-231e-4c73-8309-cdaa5143331e)
+![Screenshot 2024-06-19 162310](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/c9b5e4ec-7b09-4f00-8604-cb249329552d)
 
