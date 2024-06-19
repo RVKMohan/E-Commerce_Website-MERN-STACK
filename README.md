@@ -114,30 +114,30 @@ npm start
 #  #REGISTRATION PAGE
 ![Screenshot 2024-06-19 122917](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/4f87a573-3aa3-4fb7-b47f-a6ba8eb6628c)
 
-### FORGOT PASSWORD PAGE
+#  #FORGOT PASSWORD PAGE
 ![Screenshot 2024-06-19 123017](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/b1c66ed8-90f6-494c-8bdf-d50f710b62a0)
 
-### HOME PAGE
+#  #HOME PAGE
 ![Screenshot 2024-06-19 155204](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/1f4667b1-9c8c-4a45-9055-42927b8b5b7d)
 
-### PRODUCT DETAILS PAGE
+#  #PRODUCT DETAILS PAGE
 ![Screenshot 2024-06-19 160045](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/4b97bf2c-9fc5-4bf7-8d3b-87d35d616521)
 
-### ADMIN DASHBOARD
+#  #ADMIN DASHBOARD
 ![Screenshot 2024-06-19 155431](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/1eacf0c6-6025-4134-8046-80b7dcd06e90)
 
-### TOTAL PRODUCTS PAGE FOR ADMIN DASHBOARD
+#  #TOTAL PRODUCTS PAGE FOR ADMIN DASHBOARD
 ![Screenshot 2024-06-19 155444](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/f3e03904-dc0a-40e9-9fc3-88b835362c24)
 
-### CART VIEW
+#  #CART VIEW
 ![Screenshot 2024-06-19 160203](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/57ed1723-df01-4a62-921d-2984cde5b90d)
 
-### SHIPPING
+#  #SHIPPING
 ![Screenshot 2024-06-19 160239](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/b35a68ff-6bd7-4dfa-8503-a4f5dbbfca70)
 
-### CONFIRM ORDER
+#  #CONFIRM ORDER
 ![Screenshot 2024-06-19 160301](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/1410968c-7512-4140-a83d-06953c1560a8)
 
-### PROCCED TO PAYMENT 
+#  #PROCCED TO PAYMENT 
 ![Screenshot 2024-06-19 160326](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/5afc7f35-231e-4c73-8309-cdaa5143331e)
 
