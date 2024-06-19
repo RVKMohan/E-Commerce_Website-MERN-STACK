@@ -115,13 +115,9 @@ npm start
 
 ![Screenshot 2024-06-19 123017](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/b1c66ed8-90f6-494c-8bdf-d50f710b62a0)
 
-![Screenshot 2024-06-19 123123](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/fb77c573-ee4d-4fc1-9774-ad3b42835374)
-
 ![Screenshot 2024-06-19 155204](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/1f4667b1-9c8c-4a45-9055-42927b8b5b7d)
 
+![Screenshot 2024-06-19 155431](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/1eacf0c6-6025-4134-8046-80b7dcd06e90)
 
-
-
-
-
+![Screenshot 2024-06-19 155444](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/f3e03904-dc0a-40e9-9fc3-88b835362c24)
 
