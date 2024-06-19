@@ -108,10 +108,10 @@ npm run dev
 ```
 npm start
 ```
-### LOGIN PAGE
+#  #LOGIN PAGE
 ![Screenshot 2024-06-19 122851](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/75c92d96-30bf-4d6c-92fd-e19437ca340e)
 
-### REGISTRATION PAGE
+#  #REGISTRATION PAGE
 ![Screenshot 2024-06-19 122917](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK/assets/107797667/4f87a573-3aa3-4fb7-b47f-a6ba8eb6628c)
 
 ### FORGOT PASSWORD PAGE
