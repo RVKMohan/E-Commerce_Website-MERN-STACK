@@ -23,8 +23,6 @@ const Home = () => {
 
   const categories = [
     "Electronics",
-    "Cameras",
-    "Laptops",
     "Accessories",
     "Headphones",
     "Food",
